@@ -5,5 +5,5 @@
 - [Disaster Recovery Planning Guide](https://cloud.google.com/solutions/dr-scenarios-planning-guide)
 
 ## Certification Resources
-- [Home Page[(https://cloud.google.com/learn/certification/cloud-architect)
+- [Home Page](https://cloud.google.com/learn/certification/cloud-architect)
 - [Exam Guide and Case Studies](https://cloud.google.com/learn/certification/guides/professional-cloud-architect)
