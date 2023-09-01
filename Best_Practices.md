@@ -66,8 +66,6 @@ Virtual machines, disks, and networking
 ### Dialogflow
 - [Best practices](https://cloud.google.com/dialogflow/docs/best-practices)
 
-https://cloud.google.com/architecture/ml-on-gcp-best-practices
-
 ### Cloud Speech-to-Text
 - [Best practices](https://cloud.google.com/speech-to-text/docs/best-practices)
 
