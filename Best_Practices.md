@@ -2,8 +2,20 @@
 ## Enterprise
 - [Best practices for enterprise organizations](https://cloud.google.com/docs/enterprise/best-practices-for-enterprise-organizations)
 
+## Application Development
+### Development Platform Mangement
+- [Best practices for building containers](https://cloud.google.com/architecture/best-practices-for-building-containers)
+- [Best practices for operating containers](https://cloud.google.com/architecture/best-practices-for-operating-containers)
+- [Best practices for running cost-optimized Kubernetes applications on GKE ](https://cloud.google.com/architecture/best-practices-for-running-cost-effective-kubernetes-applications-on-gke)
+
 ## Architecture
 - [GCP Architecture Framework](https://cloud.google.com/architecture/framework)
+### Application Architectures
+- [Best practices for mobile game online architectures on Google Cloud](https://cloud.google.com/architecture/best-practices-mobile-game-architecture)
+- [Best practices for running tightly coupled HPC applications](https://cloud.google.com/architecture/best-practices-for-using-mpi-on-compute-engine)
+### Connected Device Architecture
+- [Best practices for running an IoT backend on Google Cloud ](https://cloud.google.com/architecture/connected-devices/bps-running-iot-backend-securely)
+- [Best practices for automatically provisioning and configuring edge and bare metal systems and servers](https://cloud.google.com/architecture/connected-devices/best-practices-provisioning-configuring-bare-metal)
 
 ## Security
 - [Google Cloud Security Foundations Blueprint Guide](https://services.google.com/fh/files/misc/google-cloud-security-foundations-guide.pdf)
