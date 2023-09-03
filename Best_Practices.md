@@ -61,7 +61,7 @@ Virtual machines, disks, and networking
 
 ## AI & Machine Learning Products
 ### Model Training
-- [ML Best Practices](https://cloud.google.com/architecture/ml-on-gcp-best-practices)
+- [Best practices for implementing machine learning on Google Cloud](https://cloud.google.com/architecture/ml-on-gcp-best-practices)
 
 ### Dialogflow
 - [Best practices](https://cloud.google.com/dialogflow/docs/best-practices)
